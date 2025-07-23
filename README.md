@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fenet128T
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning my Bsc. in Information Technology...
+- 🌱 I’m currently learning my Bsc. in Information Technology
 - 📫 How to reach me www.linkedin.com/in/fenet-taye-44a8b131b
 - ⚡ Fun fact: I'm selenophile🌚
