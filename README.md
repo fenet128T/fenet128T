@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @fenet128T
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning my Bsc. in Information Technology
+- 👋 Hi, my name is Fenet Taye
+- 👀 I’m Full-stack developer
+- 🌱 I’m IT Graduate
 - 📫 How to reach me www.linkedin.com/in/fenet-taye-44a8b131b
 - ⚡ Fun fact: I'm selenophile🌚
