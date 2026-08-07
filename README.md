@@ -4,11 +4,11 @@
 
  👋 Hi, my name is Fenet Taye
  
- 👀 I'm a passionate Full-Stack Developer with a strong focus on React. I love building dynamic and responsive web applications that provide great user experiences.
+  I'm a passionate Full-Stack Developer with a strong focus on React and mobile application developer with React Native. I love building dynamic and responsive web applications that provide great user experiences and building high-performance and intuitive mobile applications with React Native that deliver smooth, native experiences across both iOS and Android devices.
  
  🌱 I’m IT Graduate
  
- 📫 How to reach me www.linkedin.com/in/fenet-taye-44a8b131b
+ 📫 You can contact me at fenet128t@gmail.com
  
  ⚡ Fun fact: I'm selenophile🌚
  
