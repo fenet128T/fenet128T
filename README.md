@@ -3,6 +3,7 @@
   </p>
 
  👋 Hi, my name is Fenet Taye
+ 
  👀 I'm a passionate Full-Stack Developer with a strong focus on React. I love building dynamic and responsive web applications that provide great user experiences.
  🌱 I’m IT Graduate
  📫 How to reach me www.linkedin.com/in/fenet-taye-44a8b131b
