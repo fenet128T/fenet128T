@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on ** real-world projects**  
+🔭 &nbsp;I'm currently working on **on real-world projects**  
 💬 &nbsp;Ask me about **React, Node.js**  
 😄 &nbsp;Pronouns: **she/her**
 
